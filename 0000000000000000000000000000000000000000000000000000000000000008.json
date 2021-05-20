@@ -1,0 +1,26 @@
+{
+
+	"name": "Space: Red Planet",
+	"description": "Hi, I'm Magikarp and I'm still alive... obviously",
+	"image": "https://gateway.pinata.cloud/ipfs/QmdeoLYpJs5Nos5uuxrujxYk7vm1m7u3RUhfHounZbU2F7/MagikarpMartian.png",
+	"properties": {
+		
+		"simple_property": "example value",
+		"rich_property": {
+			"name": "Name",
+			"value": "123",
+			"display_value": "123 Example Value",
+			"class": "emphasis",
+			"css": {
+				"color": "#ffffff",
+				"font-weight": "bold",
+				"text-decoration": "underline"
+			}
+		},
+		"array_property": {
+			"name": "Name",
+			"value": [1,2,3,4],
+			"class": "emphasis"
+		}
+	}
+}
